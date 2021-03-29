@@ -1,0 +1,2 @@
+# nextjsapp
+Simple blog app
